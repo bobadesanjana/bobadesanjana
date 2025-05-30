@@ -18,7 +18,7 @@
 
 ## 💫 About Me
 
-🎓 I'm a passionate **Big Data Developer** with **2.5+ years** of experience in designing, automating, and optimizing data pipelines in cloud environments.  
+🎓 I'm a passionate **Big Data Developer** with **3+ years** of experience in designing, automating, and optimizing data pipelines in cloud environments.  
 📊 I specialize in building robust ETL solutions using **Azure Data Factory**, **Databricks**, **Spark**, and **Power BI** for actionable analytics.  
 🌐 Currently pursuing my Master’s in Computer Science at **University of Central Missouri**, focusing on **data engineering, cloud computing, and big data**.
 
