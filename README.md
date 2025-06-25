@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Sanjana Bobade</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=22&duration=3000&pause=1000&color=0E6CC4&center=true&vCenter=true&multiline=true&height=90&lines=Data+Engineer;Azure+Certified+Engineer;Cloud+ETL+Databricks" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=22&duration=3000&pause=1000&color=0E6CC4&center=true&vCenter=true&multiline=true&height=90&lines=Data+Engineer;Azure+Certified+Developer;Cloud+ETL+Databricks" alt="Typing animation" />
 </p>
 
 <p align="center">
