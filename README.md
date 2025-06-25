@@ -13,7 +13,6 @@
   </a>
 </p>
 
-
 ---
 
 ## 💫 About Me
@@ -26,16 +25,16 @@
 
 ## 🛠️ Skills & Tools
 
-**Languages & Querying**:  
+**Languages & Querying**  
 `Python` `PySpark` `SQL` `Scala` `HQL` `Linux`
 
-**Big Data & ETL**:  
+**Big Data & ETL**  
 `Apache Spark` `Apache Hive` `Azure Data Factory` `Sqoop` `Delta Lake`
 
-**Cloud & Data Platforms**:  
+**Cloud & Data Platforms**  
 `Azure Databricks` `Azure Data Lake` `AWS S3/EC2` `GCP` `Azure DevOps`
 
-**Dashboards & Tools**:  
+**Dashboards & Tools**  
 `Power BI` `Git` `CI/CD` `Autosys` `VS Code` `Jenkins`
 
 ---
@@ -59,6 +58,20 @@
 
 ---
 
+## 🚀 Projects
+
+### TimeTracker – Secure Employee Timesheet (AWS) (2025)
+
+A cloud-native, role-based timesheet tracking system built entirely on AWS Free Tier:
+
+- **Flask** application hosted on **EC2** and secured with HTTPS (Nginx + Let’s Encrypt).  
+- **AWS Cognito** for authentication and granular role control (Employee, Manager, Admin).  
+- **RDS MySQL** stores timesheet data; strict **IAM** policies enforce least-privilege access.  
+- Centralized logging & auditing via **CloudWatch** and **CloudTrail**; data encrypted using **KMS**.  
+- Static assets delivered through **S3 + CloudFront** for low-latency global access.
+
+---
+
 ## 🧠 Certifications
 
 - 🟢 Azure Data Engineer Associate  
@@ -72,7 +85,7 @@
 
 **Master’s in Computer Science**  
 University of Central Missouri, USA (2025)  
-CGPA: 3.66  
+CGPA: 3.77
 
 ---
 
@@ -80,7 +93,7 @@ CGPA: 3.66
 
 I’m always open to networking, collaboration, or project discussions!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/sanjanabobade/)
-- 🌐 [Github](https://github.com/bobadesanjana?tab=repositories)
-- 💼 Always curious to collaborate on impactful data engineering and cloud projects
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sanjanabobade/)  
+- 🌐 [GitHub](https://github.com/bobadesanjana?tab=repositories)  
+- 💼 Always curious to collaborate on impactful data engineering and cloud projects  
 - 🚀 Actively building cloud-native data solutions and exploring real-time analytics pipelines
